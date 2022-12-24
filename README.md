@@ -1,5 +1,5 @@
 # Web-dev-resources
-This is an awesome project about Web Development resources. ⚡
+This is an awesome repo about Web Development resources. ⚡
 
 Resources are added frequently! ⚡
 
