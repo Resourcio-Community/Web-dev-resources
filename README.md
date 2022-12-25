@@ -4,7 +4,8 @@ This is an awesome repo about Web Development resources. ⚡
 Resources are added frequently! ⚡
 
 Enjoy!
-<br>To add, remove or change things on the list:
+
+To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Web-dev-resources)
 ---
 ## Table of Contents
