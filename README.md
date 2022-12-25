@@ -4,10 +4,11 @@ This is an awesome repo about Web Development resources. ⚡
 Resources are added frequently! ⚡
 
 Enjoy!
-
+---
+## Contributing:cupid:
 To add, remove or change things on the list:
 [please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Web-dev-resources)
----
+
 ## Table of Contents
 - [Books for Web Development](#books-for-web-development):blue_book:
 - [YouTube Channels for Web Development](#youtube-channels-for-web-development):incoming_envelope:
